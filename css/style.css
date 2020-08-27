@@ -1,7 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.center {
+    width: 660px;
+    height: 660px;
+    padding: 20px;
+    margin: 20px;
+    /* border: 1px solid tomato; */
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    float: left;
+    border: 1px solid black;
+}
+
+
+
+
 .yellow {
     background-color: yellow;
-};
+}
 
 .green {
     background-color: green;
-};
+}
